@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SonQHoang
+- 👋 Hi, I’m SonQHoang
 - 👀 I’m interested in learning how to become a full stack engineer
 - 🌱 I’m currently learning about tree structures and sorting algorithims
 - 💞️ I’m looking to collaborate on future coding challenges in the future.
