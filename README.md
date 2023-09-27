@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sean Hoang!
-- 👀 I’m interested in learning how to become a full stack engineer
-- 🌱 I’m currently learning about tree structures and sorting algorithims
-- 💞️ I’m looking to collaborate on future coding challenges in the future.
-- 📫 How to reach me:
+- 👀 I’m interested in gaining a more solid understanding of the interplay between react and flask as I build projects.
+- 🌱 I’m currently learning how to play Neon by John Mayer on guitar.
+- 💞️ I’m looking forward to entering the tech world as a software engineer!
+- 📫 Feel free to connect with me at: hoangseanq@gmail.com
 
 <!---
 SonQHoang/SonQHoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
